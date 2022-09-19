@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**rositalonzo51/rositalonzo51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Rosa Alonzo</h1>
 <h3 align="center">I am from Merida Yucatan .A passionate frontend developer from I'm interested in frontend technologies, databases and cybersecurity 💻</h3>
 
